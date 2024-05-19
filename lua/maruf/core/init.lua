@@ -29,6 +29,12 @@ vim.api.nvim_set_keymap('v', '<Leader>P', '"+P', { noremap = true })
 vim.o.mouse = "a" -- Enable mouse support
 vim.o.termguicolors = true -- Enable true color support
 
+-- Set tab spaces to 2
+vim.o.expandtab = true     -- Use spaces instead of tabs
+vim.o.shiftwidth = 2       -- Size of an indent
+vim.o.tabstop = 2          -- Number of spaces tabs count for
+vim.o.softtabstop = 2      -- Number of spaces tabs count for when editing
+
 --Enable line numbers
 vim.wo.number = true
 vim.wo.relativenumber = true
