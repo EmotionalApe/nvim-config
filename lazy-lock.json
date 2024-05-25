@@ -19,6 +19,7 @@
   "nvim-ts-autotag": { "branch": "main", "commit": "8ae54b90e36ef1fc5267214b30c2cbff71525fe4" },
   "nvim-web-devicons": { "branch": "master", "commit": "b77921fdc44833c994fdb389d658ccbce5490c16" },
   "plenary.nvim": { "branch": "master", "commit": "a3e3bc82a3f95c5ed0d7201546d5d2c19b20d683" },
+  "tabout.nvim": { "branch": "master", "commit": "3d7fbc7f5e91ef0f96b4d787c78ad9f8820de3ec" },
   "telescope.nvim": { "branch": "master", "commit": "54930e1abfc94409e1bb9266e752ef8379008592" },
   "vim-nightfly-guicolors": { "branch": "master", "commit": "06c4ee680519f01ee6e61b891647feefc72da42e" }
 }
